@@ -1,4 +1,4 @@
-Quora Post - CRUD Application 🚀
+Quora Post - CRUD Application 
 A Quora-style post management application built with Node.js, Express.js, and EJS. This project allows users to create, read, update, and delete posts dynamically.
 
 📌 Features
@@ -8,7 +8,7 @@ A Quora-style post management application built with Node.js, Express.js, and EJ
 ✅ Delete Posts – Users can delete posts permanently.
 ✅ RESTful API Endpoints – Built using Express.js.
 
-🚀 Installation & Setup
+ Installation & Setup
 Clone the repository
 sh
 git clone https://github.com/ASMIL88/QUORA-POST---CRUD-Application.git
